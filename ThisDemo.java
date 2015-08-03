@@ -1,10 +1,10 @@
 class Person{
 String name;
 int age;
-//
+//changed for git demo
 Person(){
 //System.out.println("We are in default constructor");
-//this("niit",24);
+//this("nit",24);
 }
 public Person(String name, int age){
 this();
